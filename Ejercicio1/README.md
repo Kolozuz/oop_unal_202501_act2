@@ -1,5 +1,7 @@
 # Ejercicio 2.1 (p.63)
+
 ## Diagrama de Clases
+
 ```mermaid
 classDiagram
     class Persona {
@@ -11,6 +13,8 @@ classDiagram
         «constructor»Persona(str numero_identificacion, str nombres, str apellidos, int año_nacimiento)
     }
 ```
+
+### Implementación en código (Python)
 
 ```py
 class Persona:
