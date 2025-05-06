@@ -2,7 +2,8 @@
 
 ## Diagrama de Clases
 
-![Imagen de WhatsApp 2025-05-06 a las 16 40 48_f2556f47](https://github.com/user-attachments/assets/05e57449-797b-4e04-9bdb-3457a0d6a96a)
+![image](https://github.com/user-attachments/assets/891545d3-c0e7-4c08-9b61-531051031fe6)
+
 
 
 ### Implementación en código (Python)
