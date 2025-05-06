@@ -5,12 +5,13 @@
 ```mermaid
 classDiagram
     class Persona {
-        str numero_identificacion
-        str nombres
-        str apellidos
-        str año_nacimiento
+        numero_identificacion: str
+        nombres: str
+        apellidos: str
+        año_nacimiento: str
         
-        «constructor»Persona(str numero_identificacion, str nombres, str apellidos, int año_nacimiento)
+        «constructor»Persona(numero_identificacion: str, nombres: str, apellidos: str, año_nacimiento: int)
+        imprimir()
     }
 ```
 
