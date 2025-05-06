@@ -2,7 +2,8 @@
 
 ## Diagrama de Clases
 
-![image](https://github.com/user-attachments/assets/891545d3-c0e7-4c08-9b61-531051031fe6)
+![image](https://github.com/user-attachments/assets/0814cb41-78b5-458c-bf55-e18c599e4f99)
+
 
 
 
