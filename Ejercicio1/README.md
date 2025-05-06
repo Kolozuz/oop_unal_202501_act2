@@ -1,6 +1,6 @@
-# Ejercicio 2.1 (p.63)
+## Ejercicio 2.1 (p.63)
 
-## Diagrama de Clases
+### Diagrama de Clases
 
 ```mermaid
 classDiagram
@@ -15,7 +15,7 @@ classDiagram
     }
 ```
 
-### Implementación en código (Python)
+#### Implementación en código (Python)
 
 ```py
 class Persona:
@@ -33,3 +33,7 @@ if __name__ == "__main__":
     persona = Persona("12345", "John", "Doe", 2004)
     persona.imprimir()
 ```
+
+##### Ejecución
+
+![alt text](execution_output.png)

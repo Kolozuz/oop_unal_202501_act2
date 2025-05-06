@@ -27,7 +27,7 @@ class Color(Enum):
 
 class Automovil:
 
-    def _init_(self, marca, modelo, motor, tipo_combustible, tipo_automovil, puertas, asientos, velocidad_max, color):
+    def __init__(self, marca, modelo, motor, tipo_combustible, tipo_automovil, puertas, asientos, velocidad_max, color):
         self.marca = marca
         self.modelo = modelo
         self.motor = motor
