@@ -36,7 +36,7 @@ if __name__ == "__main__":
 
 ##### Ejecución
 
-![alt text](execution_output1.png)
+![alt text](media/execution_output1.png)
 
 ## Ejercicio 2.2 (p.66)
 
@@ -108,7 +108,7 @@ print(f"Es planeta exterior: {planeta2.exterior()}")
 
 ##### Ejecución
 
-![alt text](execution_output2.png)
+![alt text](media/execution_output2.png)
 
 ## Ejercicio 2.3 (p.74)
 
@@ -266,7 +266,7 @@ auto_1.desacelerar(20)
 ```
 ##### Ejecución 
 
-![alt text](execution_output3.png)
+![alt text](media/execution_output3.png)
 
 ## Ejercicio 2.4 (p.86)
 
@@ -365,7 +365,7 @@ if __name__ == "__main__":
 ```
 ##### Ejecución
 
-![alt text](execution_output4.png)
+![alt text](media/execution_output4.png)
 
 ## Ejercicio 2.5 (p.95)
 
@@ -449,4 +449,4 @@ if __name__ == "__main__":
 
 ##### Ejecución
 
-![alt text](execution_output5.png)
+![alt text](media/execution_output5.png)
