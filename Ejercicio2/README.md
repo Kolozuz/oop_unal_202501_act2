@@ -1,10 +1,10 @@
-# Ejercicio 2.2 (p.66)
+## Ejercicio 2.2 (p.66)
 
-## Diagrama de Clases
+### Diagrama de Clases
 
 ![image](https://github.com/user-attachments/assets/c012a305-623a-4a29-9b21-82050f8a386d)
 
-### Implementación en código (Python)
+#### Implementación en código (Python)
 
 ```py
 from enum import Enum
@@ -65,3 +65,7 @@ planeta2.imprimir()
 print(f"Densidad del planeta: {planeta2.calcular_densidad()}")
 print(f"Es planeta exterior: {planeta2.exterior()}")
 ```
+
+##### Ejecución
+
+![alt text](../media/execution_output2.png)

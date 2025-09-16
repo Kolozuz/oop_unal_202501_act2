@@ -1,13 +1,10 @@
-# Ejercicio 2.3 (p.74)
+## Ejercicio 2.3 (p.74)
 
-## Diagrama de Clases
+### Diagrama de Clases
 
 ![image](https://github.com/user-attachments/assets/0814cb41-78b5-458c-bf55-e18c599e4f99)
 
-
-
-
-### Implementación en código (Python)
+#### Implementación en código (Python)
 
 ```py
 from enum import Enum
@@ -152,3 +149,7 @@ auto_1.frenar()
 print(f"Velocidad actual: {auto_1.get_velocidad_actual()}")
 auto_1.desacelerar(20)
 ```
+
+##### Ejecución
+
+![alt text](../media/execution_output1.png)

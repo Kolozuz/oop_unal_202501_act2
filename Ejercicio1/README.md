@@ -36,4 +36,4 @@ if __name__ == "__main__":
 
 ##### Ejecución
 
-![alt text](execution_output.png)
+![alt text](../media/execution_output1.png)
